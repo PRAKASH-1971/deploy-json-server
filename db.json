@@ -1,14 +1,15 @@
 {
   "user": [
     {
-      "id": 1,
-      "title": "Hello World",
-      "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+     "id":1,
+     "brand":"Suzuki",
+     "gair":"manual",
+     "year":2011,
+     "kms":120322,
+     "desc":"Suzuki car manual 6 speed",
+     "price":6 
     },
     {
-      "id": 2,
-      "title": "Eum Et Est Occaecati",
-      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
     }
   ]
 }
